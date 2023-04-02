@@ -1,0 +1,6 @@
+https://www.xilinx.com/products/boards-and-kits/alveo/x3.html#software
+
+About HAPS80: https://xilinx.eetrend.com/content/2021/100062994.html
+
+https://opennetworking.org/onf-sdn-projects/
+Open Networking Foundation (ONF) 
